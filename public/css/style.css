@@ -1,0 +1,6 @@
+/* public/css/style.css */
+body { background: linear-gradient(180deg,#f8fafc,#eef2f7); }
+.navbar-brand { font-weight: 600; letter-spacing: .3px; }
+.card { border: 0; border-radius: 12px; }
+.table thead th { border-bottom: 0; }
+.form-label { font-weight: 600; font-size: .92rem; }
